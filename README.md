@@ -60,7 +60,7 @@ It highlights key KPIs like total revenue, customer demographics, product sales 
 Tracks sentiment trends, social media engagement, influencer impact, and competitor mentions—helping you quickly gauge how the public feels about your brand and where conversations are heating up.
 
 
-![Dashboard Page](/Images/Transaction%20Data.png)
+![Dashboard Page](https://github.com/kizytto/Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi/blob/6417470bddf15aba70f6ba6a45f0cdeb35d693de/Transaction%20Data.png)
 This final section presents a chronological overview of purchases, detailing the items acquired along with regional insights indicating where each transaction took place.
 
 ## Conclusion
