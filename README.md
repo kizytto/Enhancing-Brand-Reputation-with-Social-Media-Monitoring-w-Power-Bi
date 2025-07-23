@@ -48,7 +48,7 @@ Buttons & Bookmarks: For seamless dashboard navigation and storytelling
 
 *This Report is Split into three distinct pages to provide a high-level Summary and detailed analysis.*
 
-![Dashboard Page](/https://github.com/kizytto/Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi/blob/1a693de7929e964f1935422bd61604ca070c9a6c/Customer%20Data.png)
+![Dashboard Page](https://github.com/kizytto/Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi/blob/1a693de7929e964f1935422bd61604ca070c9a6c/Customer%20Data.png)
 
 
 It highlights key KPIs like total revenue, customer demographics, product sales trends, and regional performance giving a clear, at-a-glance view of who your customers are and how they’re driving business growth
