@@ -1,5 +1,5 @@
 # Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi
-![Dashboard Page](/Images/Customer%20Data.png)
+[![Dashboard Page](/Images/Customer%20Data.png)](https://github.com/kizytto/Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi/blob/4143509d88b90769a1ae67dcd2779dabfc69e154/Customer%20Data.png)
 ## Introduction
 
 This dashboard was created for **brand strategists, marketing analysts, and business leaders** facing a growing challenge: **brand reputation damage due to scattered customer feedback and unmanaged social media sentiment.**
