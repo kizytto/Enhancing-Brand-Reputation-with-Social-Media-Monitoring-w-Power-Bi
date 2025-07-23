@@ -56,7 +56,7 @@ It highlights key KPIs like total revenue, customer demographics, product sales 
 
 
 
-![Dashboard Page](/Images/Social%20Media.png)
+![Dashboard Page](https://github.com/kizytto/Enhancing-Brand-Reputation-with-Social-Media-Monitoring-w-Power-Bi/blob/029fe08ef19461711c6ac8d1409a5b48bf829685/Social%20Media.png)
 Tracks sentiment trends, social media engagement, influencer impact, and competitor mentions—helping you quickly gauge how the public feels about your brand and where conversations are heating up.
 
 
